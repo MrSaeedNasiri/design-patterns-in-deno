@@ -1,6 +1,6 @@
 # design-patterns-in-deno
 
-Design Patterns in Deno (TypeScript)
+Design Patterns in Deno (TypeScript) With Test
 
 ## Installation
 
@@ -25,6 +25,7 @@ in project root folder run:
 ## Roadmap
 
 - [x] Add Singleton Design pattern
+- [x] Add Decorator Design pattern ([Source](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/))
 - [ ] Add more Design patterns
 
 ## Authors
