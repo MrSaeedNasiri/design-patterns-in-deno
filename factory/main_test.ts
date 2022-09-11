@@ -4,7 +4,7 @@ import {
 } from "https://deno.land/std@0.154.0/testing/asserts.ts";
 import { NotificationFactory } from "./main.ts";
 
-Deno.test("DecoratorTest", async function DecoratorTest(t) {
+Deno.test("FactoryTest", async function FactoryTest(t) {
   const correctChannels = ["SMS", "EMAIL", "PUSH"];
   const wrongChannels = ["xms", ""];
   await t.step("correctChannels", async () => {
