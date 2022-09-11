@@ -2,7 +2,7 @@
 
 Design Pattern Snippets in Deno (TypeScript) with Test
 
-## Installation
+## Dependencies
 
 Install Deno
 
