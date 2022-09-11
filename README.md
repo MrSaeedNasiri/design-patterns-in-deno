@@ -1,6 +1,6 @@
 # design-patterns-in-deno
 
-Design Patterns in Deno (TypeScript) With Test
+Design Pattern Snippets in Deno (TypeScript) with Test
 
 ## Installation
 
