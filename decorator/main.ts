@@ -15,9 +15,6 @@ abstract class Beverage {
 }
 
 export class HouseBlend extends Beverage {
-  // public HouseBlend() {
-  // 	super(“House blend”);
-  // }
   constructor() {
     super("House blend");
   }
@@ -45,7 +42,6 @@ abstract class AddOn extends Beverage {
     this.beverage = bev;
   }
 
-  // public abstract String getDescription();
   public getDescription(): string {
     return this.getDescription();
   }
@@ -79,10 +75,10 @@ export class Milk extends AddOn {
   }
 }
 
-const houseblend = new HouseBlend();
-console.log(houseblend.getDescription() + " : " + houseblend.cost());
+const houseBlend = new HouseBlend();
+console.log(houseBlend.getDescription() + " : " + houseBlend.cost());
 
-const milkAddOn = new Milk(houseblend);
+const milkAddOn = new Milk(houseBlend);
 console.log(milkAddOn.getDescription() + " : " + milkAddOn.cost());
 
 const sugarAddOn = new Sugar(milkAddOn);
