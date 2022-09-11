@@ -87,4 +87,3 @@ console.log(milkAddOn.getDescription() + " : " + milkAddOn.cost());
 
 const sugarAddOn = new Sugar(milkAddOn);
 console.log(sugarAddOn.getDescription() + " : " + sugarAddOn.cost());
-console.log(() => 400);
