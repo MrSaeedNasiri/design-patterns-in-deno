@@ -27,7 +27,7 @@ in project root folder run:
 - [x] Add Singleton Design pattern
 - [x] Add Decorator Design pattern ([Source](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/))
 - [x] Add Factory Design pattern ([Source](https://www.geeksforgeeks.org/factory-method-design-pattern-in-java/))
-- [x] Add Proxy Design pattern ([Source](https://www.geeksforgeeks.org/proxy-design-pattern/)
+- [x] Add Proxy Design pattern ([Source](https://www.geeksforgeeks.org/proxy-design-pattern/))
 - [ ] Add more Design patterns
 
 ## Authors
